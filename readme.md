@@ -1,7 +1,7 @@
 # TODO
 
  - [] service MVP - just image processing 
- - [x] requirements 
+ - [x] requirements  - these need to be updated now
  - []  venv (if needed)
  - [] test images
 
@@ -13,3 +13,4 @@ and makes it transparent.
 
 Then we need to look into making that subarea 
 flicker in and out.
+
